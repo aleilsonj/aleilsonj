@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Aleilson
 
-- 🌱 Estudando Ciência de Dados
+- 🌱 Sou formado em Economia, ao longo de minha formação obtive conhecimento estatístico, matemático, financeiro, custos entre outros. Nesse período conheci a Ciência de Dados e me apaixonei por ela, e desde então venho focando em aumentar meu conhecimento em ferramentas que possam me auxiliar nessa jornada. 
 - 😄 Ele/Dele
 
 <div align="center">
