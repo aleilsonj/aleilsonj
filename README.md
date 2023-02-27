@@ -1,10 +1,8 @@
 ### Ola! Eu sou o Aleilson
 
 - 🌱 Formado em Economia, adquiri conhecimentos sólidos em áreas como estatística, matemática financeira e gestão de custos. Durante minha formação, descobri a Ciência de Dados e desde então tenho me dedicado a aprimorar minhas habilidades em ferramentas e técnicas que possam me ajudar a aplicá-la na prática.
-
-Em atividades extracurriculares, utilizei a linguagem R para obter insights com estatísticas descritivas, dashboard e elaboração de relatórios. No meu TCC, trabalhei com um modelo de regressão logística para responder às questões de pesquisa. Atualmente, estou estudando e desenvolvendo projetos em ciência de dados de Machine Learning usando Python, R e SQL.
-
-Além disso, possuo habilidades interpessoais e analíticas, com uma visão sistêmica que me ajuda a interpretar informações e tomar decisões informadas para resolver problemas complexos. Sou determinado e confiável em trabalhar com dados e números de diferentes setores e ambientes, e estou sempre disposto a aprender e crescer em minha carreira.
+- Em atividades extracurriculares, utilizei a linguagem R para obter insights com estatísticas descritivas, dashboard e elaboração de relatórios. No meu TCC, trabalhei com um modelo de regressão logística para responder às questões de pesquisa. Atualmente, estou estudando e desenvolvendo projetos em ciência de dados de Machine Learning usando Python, R e SQL.
+- Além disso, possuo habilidades interpessoais e analíticas, com uma visão sistêmica que me ajuda a interpretar informações e tomar decisões informadas para resolver problemas complexos. Sou determinado e confiável em trabalhar com dados e números de diferentes setores e ambientes, e estou sempre disposto a aprender e crescer em minha carreira.
 
 - 😄 Ele/Dele
 
