@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Aleilson
 
-- 🌱 Formado em Economia, adquiri conhecimentos sólidos em áreas como estatística, matemática financeira e gestão de custos. Durante minha formação, descobri a Ciência de Dados e desde então tenho me dedicado a aprimorar minhas habilidades em ferramentas e técnicas que possam me ajudar a aplicá-la na prática.
+- 🌱 Profissional de Ciência de Dados com forte background em análise de dados e automação de processos. Experiência em desenvolvimento e implementação de modelos estatísticos e de Machine Learning, além de expertise em manipulação e limpeza de dados. Habilidade em trabalhar com SQL e conhecimento em ambientes Cloud, buscando sempre a otimização e a automação de pipelines de dados.
 
 - 😄 Ele/Dele
 
